@@ -1,0 +1,14 @@
+{
+    "name": "dispac-ticker",
+    "version": "1.0.0",
+    "description": "Sistema de Ticker con JSON, Excel, y manejo robusto de errores",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "exceljs": "^4.3.0"
+    }
+  }
+  

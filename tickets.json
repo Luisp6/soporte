@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "owner": "empleado",
+    "role": "empleado",
+    "type": "incidencia",
+    "asunto": "prueba",
+    "descripcion": "prueba",
+    "fecha": "2025-03-24T21:13:50.585Z",
+    "estado": "Cerrado",
+    "adminResponse": "",
+    "attachment": null
+  },
+  {
+    "id": 2,
+    "owner": "empleado",
+    "role": "empleado",
+    "type": "insumo",
+    "asunto": "teclado",
+    "descripcion": "se necesita teclado",
+    "fecha": "2025-03-24T21:14:12.538Z",
+    "estado": "Abierto",
+    "adminResponse": ""
+  }
+]
